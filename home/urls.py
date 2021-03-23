@@ -9,6 +9,5 @@ urlpatterns = [
     path('price', price, name='price'),
     path('contact', contact, name='contact'),
     path('protfolio', protfolio, name='protfolio'),
-    path('elements', elements, name='elements'),
 
 ]
